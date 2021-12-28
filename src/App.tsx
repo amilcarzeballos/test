@@ -40,9 +40,7 @@ function App(): JSX.Element {
                 <button className="btn btn-succes btn-block mt-2">
                   Guardar
                 </button>
-                <button className="btn btn-succes btn-block mt-2">
-                  Guardar
-                </button>
+
               </form>
             </div>
           </div>
